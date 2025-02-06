@@ -7,10 +7,10 @@ To calculate the average time taken to commute from work place to home. Such a s
 Features can be added according to my own preferences.
 
 Features to be included:
-Start + End Trip Feature
-Location data records
-Ability to label detour
-Prompt to edit previous bloc of time after adding a detour.
-Add special labels of road disturbances, such as accidents or traffic jams.
-Calculation of an average within a set amount of period, weekly / monthly.
-Calculate fuel consumption and toll use.
+1. Start + End Trip Feature
+2. Location data records
+3. Ability to label detour
+4. Prompt to edit previous bloc of time after adding a detour.
+5. Add special labels of road disturbances, such as accidents or traffic jams.
+6. Calculation of an average within a set amount of period, weekly / monthly.
+7. Calculate fuel consumption and toll use.
